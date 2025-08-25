@@ -1,0 +1,6 @@
+site_name: Documentation Library - Jason Mull
+theme:
+  name: material
+  
+nav:
+  - Home: index.md
